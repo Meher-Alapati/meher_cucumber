@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite failures="0" id="0" name="" package="" tests="5">
+    <testcase classname="About Developers" name="I am a CoreJava Developer" time="0.156056">
+      <system-out><![CDATA[Given I am a "CoreJava" Developer...........................................passed
+When I started development..................................................passed
+Then I created a "simple" java program......................................passed
+And I am "not" experienced..................................................passed
+But My Boss is "still" satisfied............................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="About Developers" name="I am a AdvanceJava Developer" time="0.001725">
+      <system-out><![CDATA[Given I am a "AdvanceJava" Developer........................................passed
+When I started development..................................................passed
+Then I created a "complex" java program.....................................passed
+And I am "very" experienced.................................................passed
+But My Boss is "highly" satisfied...........................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="About Testers" name="I am a Manual Tester_3" time="0.002771">
+      <system-out><![CDATA[Given I am a "Manual" Tester................................................passed
+When I apply for a job......................................................passed
+Then I got a "Less" paid job................................................passed
+And I am "Low" satisfied with my salary.....................................passed
+But My parents are "Average" satisfied......................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="About Testers" name="I am a Manual Tester_2" time="0.000835">
+      <system-out><![CDATA[Given I am a "Automation" Tester............................................passed
+When I apply for a job......................................................passed
+Then I got a "High" paid job................................................passed
+And I am "Very" satisfied with my salary....................................passed
+But My parents are "Highly" satisfied.......................................passed
+]]></system-out>
+
+    </testcase>
+
+    <testcase classname="About Testers" name="I am a Manual Tester_1" time="0.001151">
+      <system-out><![CDATA[Given I am a "Database" Tester..............................................passed
+When I apply for a job......................................................passed
+Then I got a "Good" paid job................................................passed
+And I am "Better" satisfied with my salary..................................passed
+But My parents are "Better" satisfied.......................................passed
+]]></system-out>
+
+    </testcase>
+
+  </testsuite>
+</testsuites>
